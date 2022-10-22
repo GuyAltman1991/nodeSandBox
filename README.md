@@ -1,2 +1,3 @@
-  # nodeSandBox
-  first practis in nodeJs
+# nodeSandBox
+
+npm run dev

@@ -1,0 +1,21 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "testing npm init",
+  "main": "app.js",
+  "scripts": {
+    "start": "node .",
+    "test": "test.js",
+    "dev": "npm start && node test && cd test && node testing.js",
+    "print": "ECHO you enter print command"
+  },
+  "repository": {
+    "type": "git",
+    "url": "nodeSandBox"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "Guy Altman",
+  "license": "ISC"
+}

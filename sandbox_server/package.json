@@ -1,0 +1,28 @@
+{
+  "name": "nodejssandbox",
+  "version": "1.0.0",
+  "description": "sand-box",
+  "main": "app.js",
+  "scripts": {
+    "start": "node .",
+    "test": "test",
+    "dev": "nodemon ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GuyAltman1991/nodeSandBox.git"
+  },
+  "author": "Guy Altman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GuyAltman1991/nodeSandBox/issues"
+  },
+  "homepage": "https://github.com/GuyAltman1991/nodeSandBox#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "dependencies": {
+    "chalk": "^4.1.1",
+    "express": "^4.18.2"
+  }
+}
